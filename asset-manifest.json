@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/advice-generator-app-made-w-react/static/css/main.c87a6947.css",
+    "main.js": "/advice-generator-app-made-w-react/static/js/main.041f63be.js",
+    "static/js/787.105f56df.chunk.js": "/advice-generator-app-made-w-react/static/js/787.105f56df.chunk.js",
+    "index.html": "/advice-generator-app-made-w-react/index.html",
+    "main.c87a6947.css.map": "/advice-generator-app-made-w-react/static/css/main.c87a6947.css.map",
+    "main.041f63be.js.map": "/advice-generator-app-made-w-react/static/js/main.041f63be.js.map",
+    "787.105f56df.chunk.js.map": "/advice-generator-app-made-w-react/static/js/787.105f56df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c87a6947.css",
+    "static/js/main.041f63be.js"
+  ]
+}
